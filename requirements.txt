@@ -1,0 +1,7 @@
+streamlit==1.32.0
+rembg==2.0.56
+onnxruntime==1.17.3
+numpy==1.26.4
+pillow==10.2.0
+numba==0.59.1
+pymatting==1.1.12
